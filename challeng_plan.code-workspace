@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"markdown.marp.enableHtml": true,
+		"markdown.marp.themes": [
+			"./theme/academic.css",
+			"./theme/rose-pine-dawn.css",
+			"./theme/rose-pine-moon.css",
+			"./theme/rose-pine.css",
+		]
+	}
+}
